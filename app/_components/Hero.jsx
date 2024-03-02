@@ -27,10 +27,10 @@ function Hero() {
           <span className='text-sky-600'>Doctors</span> 
         </h2>
 
-        <p className="mt-4 text-gray-600">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
-          eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
-          quidem quam repellat.
+        <p className="mt-4 text-gray-600 font-semibold text-md">
+        Find the best doctors and easily book 
+        appointments for personalized medical care. 
+        Start your journey to better health today.
         </p>
 
         <Button className="mt-10">Explore More</Button>
